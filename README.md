@@ -7,7 +7,7 @@
 
 - 📫 How to reach me by email **luca.cardoni.l@gmail.com**
 
-- 📄 View my resume [http://bit.ly/3JpLwsS](http://bit.ly/3JpLwsS)
+- 📄 View my resume [http://bit.ly/3JpLwsS](http://bit.ly/3WXU2m0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
