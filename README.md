@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luca Cardoni</h1>
+<h1 align="center">Hi 👋🏻, I'm Luca Cardoni</h1>
 <h3 align="center">Data Analyst</h3>
 
 I am an aspiring **Data Analyst** with a background foundations in applied statistical methods, including data **collection**, **interpretation**, **analysis** and **management**, with a particular focus on supporting decision-making in complex contexts.  
