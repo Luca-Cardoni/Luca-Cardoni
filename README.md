@@ -3,7 +3,7 @@
 
 I am an aspiring **Data Analyst** with a background foundations in applied statistical methods, including data **collection**, **interpretation**, **analysis** and **management**, with a particular focus on supporting decision-making in complex contexts.  
   I aspire to contribute to projects that use data to address **global challenges** with positive social and environmental impact, related to **climate change**, **environmental sustainability**, and humanitarian issues such as **food insecurity** and **conflicts**.  
-  In my free time, I focus on personal well- being and **physical activity**; I enjoy being in contact with **nature** to recharge both mind and body, maintaining high levels of **energy** and **concentration**.  
+  In my free time, I focus on personal well- being and **physical activity**; I also enjoy being in contact with **nature** to recharge both mind and body, maintaining high levels of **energy** and **concentration**.  
 
 ---  
 - 🎓 Bachelor's student in [Statistics for Management, at Sapienza University of Rome](http://bit.ly/4hqWTgL)
