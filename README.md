@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luca Cardoni</h1>
 <h3 align="center">Data Analyst</h3>
 
+- 🎓 Bachelor's Student in [Statistics for Management (Statistica Gestionale) at Sapienza University of Rome](http://bit.ly/4hqWTgL)
+
+- 📊 Specializing in **Data Analysis**
+
 - 📫 How to reach me by email **luca.cardoni.l@gmail.com**
 
 - 📄 View my resume [http://bit.ly/3JpLwsS](http://bit.ly/3JpLwsS)
